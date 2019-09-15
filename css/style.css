@@ -1,0 +1,29 @@
+/* THIS ISMY COMENT IN CSS*/
+a.nav-link{
+    color: white !important;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body,html{
+    height: 100%;
+}
+div.parallax{
+    
+        
+        background-image: url("7.jpg");
+      
+        
+        height: 100%;
+      
+        
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      
+      
+}
+
+  
